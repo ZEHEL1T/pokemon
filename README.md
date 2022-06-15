@@ -1,2 +1,2 @@
-# pokemon
-Jogo de terminal baseado no RPG Pókemon (Blue/Yellow/Red).
+# Requisitos
+Python 3.7 ou superior.
